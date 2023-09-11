@@ -1,4 +1,4 @@
-[![MasterHead]([https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif](https://cdn.dribbble.com/users/2069402/screenshots/5574718/gif-4mb.gif))](https://samriddhi14.io)
+[![MasterHead](https://visme.co/blog/wp-content/uploads/2020/02/header.gif)](https://samriddhi14.io)
 
 <h1 align="center">Hi 👋, I'm Samriddhi Mishra</h1>
 <h3 align="center">A passionate full stack developer/programmer from India</h3>
