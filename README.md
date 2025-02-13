@@ -9,7 +9,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/Samriddhi14](https://github.com/Samriddhi14)
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/11oZEIB_jkgv7UHq58GiJnALMlbAiSAwq/view?usp=sharing](https://drive.google.com/file/d/11oZEIB_jkgv7UHq58GiJnALMlbAiSAwq/view?usp=sharing)
+- 📄 Know about my experiences [Drive Link](https://drive.google.com/file/d/1RWjYtmPAbq3O26CP6YYd977XUd7cVao_/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
